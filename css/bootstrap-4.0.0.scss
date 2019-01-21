@@ -9290,6 +9290,11 @@ a.text-dark:hover, a.text-dark:focus {
 			.malayalam{
 				color: #5d5d5d;
 			}
+			h1{
+				&.display-4{
+					font-size: 2.5rem;
+				}
+			}
 		}
 		.table-responsive{
 			margin-bottom: 24px;
