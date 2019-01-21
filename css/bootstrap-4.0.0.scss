@@ -9292,18 +9292,18 @@ a.text-dark:hover, a.text-dark:focus {
 			}
 			h1{
 				&.display-4{
-					font-size: 2.3rem;
+					font-size: 2.2rem;
 				}
 			}
 		}
 		.table-responsive{
-			margin-bottom: 24px;
-			table{
+			margin-bottom: 24px; 
+			table{ 
 				border: 1px solid #ccc;
 				padding: 0px;
 				&.table-bordered{
 					th, td{
-						padding: 12px;
+						padding: 12px
 					}
 					th{
 						
